@@ -1,9 +1,4 @@
-import { useState } from "react";
-import Navbar from "./Navbar";
-import Sidebar from "./Sidebar";
-import Content from "./Content";
-import LoginForm from "./LoginForm";
-import type { Usuario } from "./types";
+
 
 type Auth = {
   logueado: boolean;
